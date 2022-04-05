@@ -5,6 +5,6 @@
 
 menu "Custom Packages"
 
-source "$NERVES_DEFCONFIG_DIR/packages/libfoo/Config.in"
+source "$NERVES_DEFCONFIG_DIR/packages/libcamera-apps/Config.in"
 
 endmenu
