@@ -55,5 +55,6 @@ max_framebuffers=2
 # For the CM4 I/O board, USB is disabled by default. This enables it.
 dtoverlay=dwc2,dr_mode=host
 
+start_x=1
 dtoverlay=imx219
 
